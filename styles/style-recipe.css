@@ -1,0 +1,51 @@
+div{
+    background-color: hsl(0,0%,100%,0.6);
+    background-size:0%;
+    margin: 0 auto;
+    padding: 70px 70px 140px 70px;
+    width: 650px;
+    font-family: "Proxima Nova", Helvetica, sans-serif;
+}
+
+div,
+.ppg{
+    background-color: hsl(0,0%,0%,0.6);
+    color: white;
+}
+
+h1{
+    font-size:100px;
+    margin: 0 auto 5 auto;
+    text-align: center;
+}
+
+.ppgh{
+    font-size: 85px;
+}
+
+img{
+    height: 200px;
+    width: auto;
+}
+
+
+.background{
+    background-size:cover;
+}
+
+ul{
+    display: block;
+    align-content: center;
+}
+
+.ingredient{
+    display: inline-block;
+}
+
+.card{
+    width: 550px;
+    margin: 0 auto 5px auto;
+    padding: 0 10px;
+    background-color: hsl(0, 0%, 100%, 0);
+}
+
